@@ -1,0 +1,6 @@
+This file shows all updates to the program.
+
+Version 0.0.1 - PreAlpha
+Added + Modified main.py
+Added + Modified readme.txt
+Added + Modified roadmap.txt
